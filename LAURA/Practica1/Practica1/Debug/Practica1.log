@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\l070j519\desktop\practica1\practica1\source.cpp(37): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
